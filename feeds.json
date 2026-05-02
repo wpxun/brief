@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://export.arxiv.org/rss/cs.AI",
+    "category": "AI",
+    "source_type": "Paper",
+    "name": "ArXiv cs.AI"
+  },
+  {
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "category": "AI",
+    "source_type": "News",
+    "name": "TechCrunch AI"
+  },
+  {
+    "url": "https://www.nature.com/nature.rss",
+    "category": "Basic Science",
+    "source_type": "News",
+    "name": "Nature"
+  },
+  {
+    "url": "https://phys.org/rss-feed/",
+    "category": "Physics",
+    "source_type": "News",
+    "name": "Phys.org"
+  },
+  {
+    "url": "https://www.sciencedaily.com/rss/health_medicine.xml",
+    "category": "Medical",
+    "source_type": "News",
+    "name": "ScienceDaily Medical"
+  },
+  {
+    "url": "https://www.reddit.com/r/science/.rss",
+    "category": "Basic Science",
+    "source_type": "Forum",
+    "name": "Reddit r/science"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/.rss",
+    "category": "AI",
+    "source_type": "Forum",
+    "name": "Reddit r/MachineLearning"
+  },
+  {
+    "url": "https://export.arxiv.org/rss/physics",
+    "category": "Physics",
+    "source_type": "Paper",
+    "name": "ArXiv Physics"
+  },
+  {
+    "url": "https://spacenews.com/feed/",
+    "category": "Aerospace",
+    "source_type": "News",
+    "name": "SpaceNews"
+  },
+  {
+    "url": "https://medicalxpress.com/rss-feed/",
+    "category": "Medical",
+    "source_type": "News",
+    "name": "Medical Xpress"
+  },
+  {
+    "url": "https://www.technologyreview.com/feed/",
+    "category": "Information Engineering",
+    "source_type": "News",
+    "name": "MIT Technology Review"
+  },
+  {
+    "url": "https://www.wired.com/feed/category/science/latest/rss",
+    "category": "Basic Science",
+    "source_type": "News",
+    "name": "Wired Science"
+  },
+  {
+    "url": "https://psychcentral.com/feed",
+    "category": "Psychology",
+    "source_type": "News",
+    "name": "Psych Central"
+  },
+  {
+    "url": "https://www.chemistryworld.com/rss",
+    "category": "Chemistry",
+    "source_type": "News",
+    "name": "Chemistry World"
+  }
+]
