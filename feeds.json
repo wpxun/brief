@@ -24,12 +24,6 @@
     "name": "Phys.org"
   },
   {
-    "url": "https://www.sciencedaily.com/rss/health_medicine.xml",
-    "category": "Medical",
-    "source_type": "News",
-    "name": "ScienceDaily Medical"
-  },
-  {
     "url": "https://www.reddit.com/r/science/.rss",
     "category": "Basic Science",
     "source_type": "Forum",
@@ -54,12 +48,6 @@
     "name": "SpaceNews"
   },
   {
-    "url": "https://medicalxpress.com/rss-feed/",
-    "category": "Medical",
-    "source_type": "News",
-    "name": "Medical Xpress"
-  },
-  {
     "url": "https://www.technologyreview.com/feed/",
     "category": "Information Engineering",
     "source_type": "News",
@@ -82,5 +70,35 @@
     "category": "Chemistry",
     "source_type": "News",
     "name": "Chemistry World"
+  },
+  {
+    "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss",
+    "category": "Robotics",
+    "source_type": "News",
+    "name": "IEEE Spectrum Robotics"
+  },
+  {
+    "url": "https://www.therobotreport.com/feed/",
+    "category": "Robotics",
+    "source_type": "News",
+    "name": "The Robot Report"
+  },
+  {
+    "url": "https://towardsdatascience.com/feed",
+    "category": "AI",
+    "source_type": "Blog",
+    "name": "Towards Data Science"
+  },
+  {
+    "url": "https://blog.google/technology/ai/rss/",
+    "category": "AI",
+    "source_type": "Blog",
+    "name": "Google AI Blog"
+  },
+  {
+    "url": "https://openai.com/blog/rss.xml",
+    "category": "AI",
+    "source_type": "Blog",
+    "name": "OpenAI Blog"
   }
 ]
