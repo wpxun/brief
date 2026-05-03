@@ -2,8 +2,8 @@ name: Daily Tech News Aggregator
 
 on:
   schedule:
-    # 01:00 UTC is 09:00 Beijing Time
-    - cron: '0 1 * * *'
+    # 00:45 UTC is 08:45 Beijing Time (避开 GitHub 整点排队高峰)
+    - cron: '45 0 * * *'
   workflow_dispatch: # Allow manual triggering
 
 jobs:
