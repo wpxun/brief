@@ -1,5 +1,8 @@
 name: Daily Tech News Aggregator
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     # 00:45 UTC is 08:45 Beijing Time (避开 GitHub 整点排队高峰)
